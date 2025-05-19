@@ -128,6 +128,21 @@ Mbed OS release: mbed-os-6.0.0-alpha-2
 |              | X         | X            |               | -2,592 | -29,918 |
 |              | X         | X            | X             | -2,592 | -30,810 |
 
+## Videos
+
+
+
+
+https://github.com/user-attachments/assets/7c45636e-dae2-480e-80cd-f91765a56969
+
+
+
+https://github.com/user-attachments/assets/4ce43de2-a39c-4d5c-8438-c83057abe259
+
+
+
+
+
 ## Troubleshooting 
 
 If you have problems, you can review the [documentation](https://os.mbed.com/docs/latest/tutorials/debugging.html) for suggestions on what could be wrong and how to fix it. 
